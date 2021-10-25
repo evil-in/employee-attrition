@@ -8,4 +8,4 @@
 ## Overview of project:
 * Exploratory data analysis of an attrition  survey conducted. [View](https://github.com/evil-in/employee-attrition/blob/master/eda_employee_attrition.ipynb)
 * Built a model to calculate the attrition rate in an organisation
- >   A random forest regressor, RMSE ~ 0.86. [View](https://github.com/evil-in/employee-attrition/blob/master/eda_employee_attrition.ipynb)
+ >   A random forest regressor, RMSE ~ 0.86. [View](https://github.com/evil-in/employee-attrition/blob/master/Employee_Attrition.ipynb)
