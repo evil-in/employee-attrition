@@ -1,5 +1,9 @@
 # Employee Attrition
 
+**Teammates**: 
+* [Jayant Kumar Pal](https://www.linkedin.com/in/jayantakp/)
+* [Satwik Behera](https://www.linkedin.com/in/saatweek/)
+
 **Attrition** : The rate at which employees leave an organization over a particular period of time, when the company does not seek to fill the position. 
 
 ## Aim of project:
