@@ -10,6 +10,6 @@
 <p> To help a company understand the attrition in their organization to minimize the attrition rate, so that turnover costs are reduced and employees can be retained for a longer period. </p>
 
 ## Overview of project:
-* Exploratory data analysis of an attrition  survey conducted. [View](https://github.com/evil-in/employee-attrition/blob/master/eda_employee_attrition.ipynb)
+* Exploratory data analysis of an attrition  survey conducted. [(View)](https://github.com/evil-in/employee-attrition/blob/master/eda_employee_attrition.ipynb)
 * Built a model to calculate the attrition rate in an organisation
- >   A random forest regressor, RMSE ~ 0.86. [View](https://github.com/evil-in/employee-attrition/blob/master/Employee_Attrition.ipynb)
+ >   A random forest regressor, RMSE ~ 0.86. [(View)](https://github.com/evil-in/employee-attrition/blob/master/Employee_Attrition.ipynb)
